@@ -4,7 +4,7 @@ This project demonstrates the implementation of Support Vector Machines (SVM) fo
 
 ## Contents
 - `01-Support Vector Machines.ipynb`: A tutorial on using SVM with the breast cancer dataset.
-- `02-SVM-Assignment-Solved.ipynb`: A completed assignment focusing on the Iris flower dataset.
+- `02-SVM-Assignment-Solved.ipynb (Lab_10)`: A completed assignment focusing on the Iris flower dataset.
 
 ## Requirements
 - Python 3.x
